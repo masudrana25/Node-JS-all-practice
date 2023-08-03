@@ -1,0 +1,21 @@
+{
+  "name": "npm_test",
+  "version": "1.0.0",
+  "description": "npm test project",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "nodemon"
+  ],
+  "author": "Masud",
+  "license": "ISC",
+  "dependencies": {
+    "movies-names": "^1.1.1",
+    "random-fruits-name": "^1.9.7",
+    "random-movie-names": "^1.0.2"
+  }
+}
